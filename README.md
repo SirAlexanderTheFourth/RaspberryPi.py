@@ -1,2 +1,2 @@
 # RaspberryPi.py
-esercizi delle vacanze 
+esercizi delle vacanze di sistemi
